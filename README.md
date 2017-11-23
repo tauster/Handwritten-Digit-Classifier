@@ -1,5 +1,5 @@
 # MNIST Handwritten Digits Classifier
-#### _Logistic regression machine learning implementation for the MNIST handwritten digits dataset_
+#### _k-Nearest Neighbors & Logistic Regression machine learning implementation for the MNIST handwritten digits dataset_
 
 This assignment compares the performance and characteristics of the k-Nearest Neighbors and Logistic Regression classifiers. The dataset used is the MNIST handwritten digits. For this assignment specifically, the hand-written digits, 2 and 8, represented as 28x28 pixel arrays are being used.
 
