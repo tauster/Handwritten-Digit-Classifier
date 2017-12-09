@@ -12,3 +12,5 @@ Dataset Discription:
   * Validation set with 25 examples each class used for model selection
 * `mnist_test.npz`
   * Final test set
+
+Tausif S., 2016
