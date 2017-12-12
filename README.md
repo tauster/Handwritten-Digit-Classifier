@@ -3,7 +3,7 @@
 
 This assignment compares the performance and characteristics of the k-Nearest Neighbors and Logistic Regression classifiers. The dataset used is the MNIST handwritten digits. For this assignment specifically, the hand-written digits, 2 and 8, represented as 28x28 pixel arrays are being used.
 
-Dataset Discription:
+Dataset Description:
 * `mnist_train.npz`
   * Contains 100 examples of each class
 * `mnist_train_small.npz`
